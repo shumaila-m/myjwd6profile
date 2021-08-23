@@ -1,0 +1,31 @@
+body{
+    padding: 0px;
+    Margin: 0px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+font-size: 13px;
+
+} 
+
+/* style for header image*/
+header > img{
+width: 100%;
+height: 100px;
+
+}
+/*Add a background colour to the top navigation*/
+nav{
+    background-color: rgb(108, 201, 170);
+    text-align: center;
+}
+/*style the links inside the nav*/
+nav > a{
+    color: black;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+} 
+/*change the colour on hover*/
+
+nav > ahover {
+    color:chartreuse;
+}
+/*Profile image*/
